@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Tema por defecto (ajusta el parent si usas otro) -->
+  <style name="Theme.RestGraphQL" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- personalizaciones aquí -->
+  </style>
+</resources>
